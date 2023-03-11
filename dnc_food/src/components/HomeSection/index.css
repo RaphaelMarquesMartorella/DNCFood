@@ -1,0 +1,18 @@
+.food__cards {
+    display: inline-block;
+    width: 30%;
+    padding: 0;
+    
+}
+
+.food__cards img {
+    width: 100%;
+}
+
+.food__titles p {
+    text-align: center;
+    width: 50%;
+    font-size: 15px;
+    border: 1px solid #E39F0B;
+    margin-right: 30px;
+}

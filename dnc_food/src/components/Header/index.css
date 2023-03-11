@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.left__side {
+    display: flex;
+    align-items: center;
+    padding-top: 18px;
+
+}
+
+.left__side h3 {
+    padding-right: 25px;
+    color: white;
+}
+
+.left__side img {
+    padding-right: 5px;
+}
+
+.right__side {
+    display: flex;
+    align-items: center;
+    padding-top: 18px;
+    color: white;
+    
+
+}
